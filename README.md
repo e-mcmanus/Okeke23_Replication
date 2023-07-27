@@ -5,6 +5,8 @@ Authors (in alphabetical order): Emma McManus (University of Manchester), Joseph
 
 Replication conducted as part of the Norwich Replication Games, 10th July 2023 (Institute for Replication)
 
+Do files detailing the replication are attached and should be used alongside the replication package provided by Okeke.
+
 Reference:
 Okeke, Edward N. 2023. "When a Doctor Falls from the Sky: The Impact of Easing Doctor Supply Constraints on Mortality." American Economic Review, 113 (3): 585-627.
 DOI: 10.1257/aer.20210701
